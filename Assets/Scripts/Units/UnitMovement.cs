@@ -6,7 +6,7 @@ public class UnitMovement : NetworkBehaviour
 {
     [SerializeField] private NavMeshAgent agent = null;
     [SerializeField] private Targeter targeter = null;
-    [SerializeField] private float chaseRange = 10f;
+    [SerializeField] private float chaseRange = 5.0f;
 
     #region Server
 

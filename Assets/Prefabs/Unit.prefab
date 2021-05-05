@@ -113,6 +113,7 @@ MonoBehaviour:
   syncInterval: 0.1
   agent: {fileID: 5957362920559523834}
   targeter: {fileID: 2590869488595785938}
+  chaseRange: 6
 --- !u!114 &5112028858789878056
 MonoBehaviour:
   m_ObjectHideFlags: 0
